@@ -29,7 +29,7 @@ public class PutAndPatch {
     }
 
 
-
+    //This is patch method
     @Test
     void testPatch(){
         JSONObject request = new JSONObject();
